@@ -5,7 +5,7 @@ Meu nome é Emily Reis
 - Estou desenvolvendo habilidades na linguagem JavaScript.
 - Este espaço é dedicado à organização e ao compartilhamento dos meus projetos.
 ### Você poderá entrar em contato comigo 📫
-- _emilyreisjj@gmail.com_
+
 
 
 ![](https://media1.tenor.com/m/YzSuJpx4ghsAAAAC/studio-ghibli-ghibli-hug.gif)
